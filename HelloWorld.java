@@ -6,5 +6,6 @@ public class HelloWorld {
 		String name="max well";
 		System.out.println("Hello"+""+name+"hey bro");
 		System.out.println("From nepal");
+		System.out.println("Studied MBA");
 	}
 }
